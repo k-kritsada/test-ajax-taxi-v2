@@ -2301,7 +2301,3 @@ function unitAsyncTestCurl(name,param,error_code){
         });
     });
 }
-
-function getGitHup(){
-    console.log("gggggg");
-}
